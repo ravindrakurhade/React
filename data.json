@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "Web developer",
+        "image": "https://www.shutterstock.com/image-vector/web-develop-mobile-phone-vector-600w-1815058004.jpg",
+        "description": "Html Css Bootstarap"
+    },
+    {
+        "id": 2,
+        "title": "App development",
+        "image": "https://www.shutterstock.com/image-vector/colorful-gadgets-devices-illustration-vector-600w-542869480.jpg",
+        "description": "java, reactnative"
+
+    },
+    {
+        "id": 3,
+        "title": "Blockchain developmen",
+        "image": "https://www.shutterstock.com/image-vector/colorful-gadgets-devices-illustration-vector-600w-542869480.jpg",
+        "description": "javascript, nodejs"
+    }
+]
